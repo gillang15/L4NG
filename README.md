@@ -7,3 +7,5 @@
 # cd L4NG 
 # ls
 # python2 Lang.py
+
+#tutorial ambil Token : https://www.nagato-official23.my.id/2020/08/cara-mengambil-akses-token-facebook.html?m=1
